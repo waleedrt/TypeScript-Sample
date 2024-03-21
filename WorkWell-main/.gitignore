@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.expo/
+.vscode/launch.json
+.vscode/settings.json
+.idea
